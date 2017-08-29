@@ -1,0 +1,36 @@
+<!--Attributes – is what’s written in HTML.-->
+<!--Properties – is what’s in DOM objects.-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+
+    <title>Title</title>
+</head>
+<style>
+    @import "order-state example css file.css";
+</style>
+<body>
+    <!--<div class="order" data-order-state="new">-->
+        <!--A new order.-->
+    <!--</div>-->
+
+    <!--<div class="order" data-order-state="pending">-->
+        <!--A pending order.-->
+    <!--</div>-->
+
+    <div class="order" data-order-state="new">
+        A canceled order.
+    </div>
+
+    <script>
+        //read
+        alert(order.dataset.orderState);
+        //modify
+        order.dataset.orderState = "pending";
+    </script>
+</body>
+</html>

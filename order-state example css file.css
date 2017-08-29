@@ -1,0 +1,12 @@
+/* styles rely on the custom attributes "data-order-state" */
+.order[data-order-state="new"] {
+    color: green;
+}
+
+.order[data-order-state="pending"] {
+    color: blue;
+}
+
+.order[data-order-state="canceled"] {
+    color: red;
+}
