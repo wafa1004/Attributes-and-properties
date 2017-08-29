@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Property attribute synchronization</title>
+</head>
+<body>
+    <input>
+
+    <script>
+        let input = document.querySelector('input');
+
+        // attribute => property
+
+        input.setAttribute('id', 'id');
+        alert(input.id); //id updated
+
+        //property => attribute
+        input.id = 'newId';
+        alert(input.getAttribute('id')); //newId (updated)
+
+    </script>
+
+</body>
+</html>

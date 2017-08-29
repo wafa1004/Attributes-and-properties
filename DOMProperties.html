@@ -1,0 +1,39 @@
+<!-- DOM properties and methods behave just like those of regular
+JavaScript objects
+    *they can have any value.
+    *they are case-sensitive-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DOM properties</title>
+</head>
+<body>
+
+</body>
+<script>
+    //we can create out own DOM properties.
+    document.body.myData = {
+        name: 'Ceasar',
+        title: 'Imperator'
+    };
+
+    //we can add out own functions.
+    document.body.sayHi = function() {
+        alert(this.tagName);
+    };
+
+    //we can modify built-in prototypes like Element.prototype
+    Element.prototype.sayHi = function() {
+        alert(`Hello, I'm ${this.tagName}`);
+    };
+
+    alert(document.body.myData.title);
+    document.body.sayHi();
+    document.documentElement.sayHi();
+    document.body.sayHi();
+
+</script>
+</html>

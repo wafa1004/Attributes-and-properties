@@ -1,0 +1,28 @@
+<!-- in HTML attribute names are case-insensitive
+    *all attributes are visible in outerHTML
+    *attributes collection is iterable-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML attributes</title>
+</head>
+<body>
+    <div id="elem" about="Elephant"></div>
+
+    <script>
+        alert( elem.getAttribute('About') );
+
+        elem.setAttribute( 'Test', 123);
+
+        alert( elem.outerHTML );
+
+        for (let attr of elem.attributes ) {
+            alert(attr.name + " = " + attr.value);
+        }
+    </script>
+
+</body>
+</html>

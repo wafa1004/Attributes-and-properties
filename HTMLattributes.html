@@ -1,0 +1,22 @@
+<!-- In HTML, tags may have attributes.
+    *Attributes are case-insensitive
+    *They are always strings-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body id="test" something="non-standard" type="...">
+    <input id="input" type="text">
+    <script>
+        alert(document.body.id);
+        alert(document.body.getAttribute('something'));
+        alert(input.type);
+        alert(document.body.getAttribute('type'));
+    </script>
+
+</body>
+</html>

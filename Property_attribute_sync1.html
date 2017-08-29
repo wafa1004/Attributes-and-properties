@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input>
+
+<script>
+    let input = document.querySelector('input');
+
+    // attribute => property
+    input.setAttribute('value', 'text');
+    alert(input.value); // text
+
+    // NOT property => attribute
+    input.value = 'newValue';
+    alert(input.getAttribute('value')); // text (not updated!)
+</script>
+</body>
+</html>
