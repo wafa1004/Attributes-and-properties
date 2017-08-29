@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="349216ac-bc78-43ae-b907-cea8db46c610" name="Default" comment="" />
+    <list default="true" id="349216ac-bc78-43ae-b907-cea8db46c610" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -87,11 +89,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="order-state example.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="order-state example.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/order-state example.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            <state relative-caret-position="135">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task1.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/task1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -112,8 +124,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -137,6 +149,7 @@
         <option value="$PROJECT_DIR$/Non-standard attributes, daraset.html" />
         <option value="$PROJECT_DIR$/order-state example css file.css" />
         <option value="$PROJECT_DIR$/order-state example.html" />
+        <option value="$PROJECT_DIR$/task1.html" />
       </list>
     </option>
   </component>
@@ -147,9 +160,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="666" />
+    <option name="x" value="694" />
     <option name="y" value="23" />
-    <option name="width" value="614" />
+    <option name="width" value="586" />
     <option name="height" value="722" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -201,26 +214,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.order-state example.html">
+  <component name="RunManager" selected="JavaScript Debug.task1.html">
     <configuration name="DOM_properties_are_typed.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Attributes&amp;Properties/DOM_properties_are_typed.html" />
-    <configuration name="HTMLAttributes_caseInsensitive.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Attributes&amp;Properties/HTMLAttributes_caseInsensitive.html" />
     <configuration name="Non-standard attributes, daraset.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Attributes&amp;Properties/Non-standard attributes, daraset.html" />
     <configuration name="Property_attribute_sync.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Attributes&amp;Properties/Property_attribute_sync.html" />
     <configuration name="order-state example.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Attributes&amp;Properties/order-state example.html" />
+    <configuration name="task1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Attributes&amp;Properties/task1.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.HTMLAttributes_caseInsensitive.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Property_attribute_sync.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.DOM_properties_are_typed.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Non-standard attributes, daraset.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.order-state example.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Property_attribute_sync.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.DOM_properties_are_typed.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Non-standard attributes, daraset.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.order-state example.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.task1.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.order-state example.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Non-standard attributes, daraset.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.DOM_properties_are_typed.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Property_attribute_sync.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.HTMLAttributes_caseInsensitive.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.task1.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.order-state example.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Non-standard attributes, daraset.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.DOM_properties_are_typed.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Property_attribute_sync.html" />
       </list>
     </recent_temporary>
   </component>
@@ -237,18 +250,18 @@
       <workItem from="1503898104587" duration="460000" />
       <workItem from="1503898686193" duration="5247000" />
       <workItem from="1503977850435" duration="1400000" />
-      <workItem from="1503979782691" duration="2199000" />
+      <workItem from="1503979782691" duration="3917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9306000" />
+    <option name="totallyTimeSpent" value="11024000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="666" y="23" width="614" height="722" extended-state="0" />
+    <frame x="694" y="23" width="586" height="722" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10623946" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.038938053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -456,8 +469,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/order-state example.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
           <folding />
         </state>
       </provider>
